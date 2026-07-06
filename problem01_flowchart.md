@@ -1,10 +1,10 @@
 ```mermaid
 flowchart TD
     A([Start])
-    B[/Input Mother's Allowance (num1)/]
-    C[/Input Father's Allowance (num2)/]
+    B[/Input num1/]
+    C[/Input num2/]
     D[total = num1 + num2]
-    E[/Display Total Snack Money/]
+    E[/Display total snack money/]
     F([End])
 
     A --> B

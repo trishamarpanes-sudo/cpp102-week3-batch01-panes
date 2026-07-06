@@ -1,0 +1,7 @@
+1. Start.
+2. Input the length.
+3. Input the width.
+4. Compute the area.
+   'area = length * width'
+5. Display the area.
+6. End.

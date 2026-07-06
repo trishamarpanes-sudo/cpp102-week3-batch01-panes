@@ -1,0 +1,15 @@
+'''text
+START
+    INPUT quizAverage
+    INPUT examScore
+    INPUT projectScore
+
+    quizPart = quizAverage * 0.30
+    examPart = examScore * 0.50
+    projectPart = projectScore * 0.20
+
+    finalGrade = quizPart + examPart + projectPart
+
+    DISPLAY "Final Grade = ", finalGrade
+STOP
+'''

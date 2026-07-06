@@ -1,0 +1,8 @@
+1. Start.
+2. Input the first quiz score.
+3. Input the second quiz score.
+4. Input the third quiz score.
+5. Compute the average.
+   "average = (score1 + score2 + score3) / 3"
+6. Display the average.
+7. End.

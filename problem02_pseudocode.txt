@@ -1,0 +1,8 @@
+'''text
+START
+    INPUT length
+    INPUT width
+    area = length * width
+    DISPLAY "Area = ", area
+STOP
+'''

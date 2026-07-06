@@ -1,0 +1,7 @@
+1. Start.
+2. Input the allowance from the mother ('num1').
+3. Input the allowance from the father ('num2').
+4. Compute the total allowance.
+   'total = num1 + num2'
+5. Display the total snack money.
+6. End.

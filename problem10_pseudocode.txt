@@ -1,0 +1,11 @@
+'''textSTART
+    INPUT lockerNumber
+
+    IF lockerNumber MOD 2 = 0 THEN
+        DISPLAY "Even"
+    ELSE
+        DISPLAY "Odd"
+    ENDIF
+
+STOP
+'''

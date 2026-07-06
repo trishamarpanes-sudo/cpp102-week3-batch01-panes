@@ -1,0 +1,14 @@
+'''text
+START
+    INPUT hourlyRate
+    INPUT regularHours
+    INPUT overtimeHours
+
+    regularPay = hourlyRate * regularHours
+    overtimePay = hourlyRate * 1.5 * overtimeHours
+
+    grossPay = regularPay + overtimePay
+
+    DISPLAY "Gross Pay = ", grossPay
+STOP
+'''

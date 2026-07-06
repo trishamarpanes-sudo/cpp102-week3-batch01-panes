@@ -1,0 +1,14 @@
+'''text
+START
+    INPUT temperature
+
+    IF temperature > 0 THEN
+        DISPLAY "Above Freezing"
+    ELSE IF temperature < 0 THEN
+        DISPLAY "Below Freezing"
+    ELSE
+        DISPLAY "Exactly Freezing"
+    ENDIF
+
+STOP
+'''

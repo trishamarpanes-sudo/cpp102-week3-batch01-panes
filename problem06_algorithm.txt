@@ -1,0 +1,12 @@
+1. Start.
+2. Input the hourly rate.
+3. Input the regular hours worked.
+4. Input the overtime hours worked.
+5. Compute the regular pay.
+   'regularPay = hourlyRate * regularHours'
+6. Compute the overtime pay.
+   'overtimePay = hourlyRate * 1.5 * overtimeHours'
+7. Compute the total gross pay.
+   'grossPay = regularPay + overtimePay'
+8. Display the total gross pay.
+9. End.

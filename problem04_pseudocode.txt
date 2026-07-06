@@ -1,0 +1,9 @@
+'''text
+START
+    INPUT score1
+    INPUT score2
+    INPUT score3
+    average = (score1 + score2 + score3) / 3
+    DISPLAY "Average = ", average
+STOP
+'''

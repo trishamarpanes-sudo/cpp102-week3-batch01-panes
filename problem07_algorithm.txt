@@ -1,0 +1,14 @@
+1. Start.
+2. Input the quiz average.
+3. Input the exam score.
+4. Input the project score.
+5. Compute the weighted quiz score.
+   'quizPart = quizAverage * 0.30'
+6. Compute the weighted exam score.
+   'examPart = examScore * 0.50'
+7. Compute the weighted project score.
+   'projectPart = projectScore * 0.20'
+8. Compute the final grade.
+   'finalGrade = quizPart + examPart + projectPart'
+9. Display the final grade.
+10. End.

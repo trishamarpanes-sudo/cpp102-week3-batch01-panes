@@ -1,0 +1,5 @@
+1. Start.
+2. Input the locker number.
+3. If the locker number is divisible by 2, display "Even".
+4. Otherwise, display "Odd".
+5. End.

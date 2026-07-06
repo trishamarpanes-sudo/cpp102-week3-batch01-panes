@@ -1,0 +1,12 @@
+'''text
+START
+    INPUT finalGrade
+
+    IF finalGrade >= 75 THEN
+        DISPLAY "Passed"
+    ELSE
+        DISPLAY "Failed"
+    ENDIF
+
+STOP
+'''

@@ -1,0 +1,6 @@
+1. Start.
+2. Input the temperature in degrees Celsius.
+3. If the temperature is greater than 0, display "Above Freezing".
+4. Otherwise, if the temperature is less than 0, display "Below Freezing".
+5. Otherwise, display "Exactly Freezing".
+6. End.

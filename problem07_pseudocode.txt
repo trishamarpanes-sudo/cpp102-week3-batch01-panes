@@ -1,4 +1,3 @@
-'''text
 START
     INPUT quizAverage
     INPUT examScore
@@ -11,5 +10,4 @@ START
     finalGrade = quizPart + examPart + projectPart
 
     DISPLAY "Final Grade = ", finalGrade
-STOP
-'''
+END

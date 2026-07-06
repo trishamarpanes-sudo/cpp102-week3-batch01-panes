@@ -1,4 +1,3 @@
-'''text
 START
     INPUT finalGrade
 
@@ -8,5 +7,4 @@ START
         DISPLAY "Failed"
     ENDIF
 
-STOP
-'''
+END

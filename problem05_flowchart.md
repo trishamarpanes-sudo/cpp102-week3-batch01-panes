@@ -1,4 +1,4 @@
-'''mermaid
+```mermaid
 flowchart TD
     A([Start])
     B[/Input Price1 and Quantity1/]
@@ -20,4 +20,4 @@ flowchart TD
     G --> H
     H --> I
     I --> J
-'''
+```

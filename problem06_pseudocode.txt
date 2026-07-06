@@ -1,4 +1,3 @@
-'''text
 START
     INPUT hourlyRate
     INPUT regularHours
@@ -10,5 +9,4 @@ START
     grossPay = regularPay + overtimePay
 
     DISPLAY "Gross Pay = ", grossPay
-STOP
-'''
+END

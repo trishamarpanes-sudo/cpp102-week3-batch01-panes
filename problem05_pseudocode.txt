@@ -1,4 +1,3 @@
-'''text
 START
     INPUT price1, quantity1
     INPUT price2, quantity2
@@ -11,5 +10,4 @@ START
     totalBill = subtotal1 + subtotal2 + subtotal3
 
     DISPLAY "Total Bill = ", totalBill
-STOP
-'''
+END

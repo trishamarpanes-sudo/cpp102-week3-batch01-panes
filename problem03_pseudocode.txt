@@ -1,8 +1,6 @@
-'''text
 START
     INPUT hourlyRate
     INPUT hoursWorked
     grossPay = hourlyRate * hoursWorked
     DISPLAY "Gross Pay = ", grossPay
-STOP
-'''
+END

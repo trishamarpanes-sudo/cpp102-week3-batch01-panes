@@ -1,4 +1,3 @@
-'''text
 START
     INPUT temperature
 
@@ -10,5 +9,4 @@ START
         DISPLAY "Exactly Freezing"
     ENDIF
 
-STOP
-'''
+END

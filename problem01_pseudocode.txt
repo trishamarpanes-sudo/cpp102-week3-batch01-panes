@@ -1,8 +1,6 @@
-'''text
 START
     INPUT num1
     INPUT num2
     total = num1 + num2
     DISPLAY "Total Snack Money = ", total
-STOP
-'''
+END

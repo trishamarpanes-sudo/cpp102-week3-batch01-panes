@@ -1,4 +1,4 @@
-'''textSTART
+START
     INPUT lockerNumber
 
     IF lockerNumber MOD 2 = 0 THEN
@@ -7,5 +7,4 @@
         DISPLAY "Odd"
     ENDIF
 
-STOP
-'''
+END

@@ -1,4 +1,4 @@
-'''mermaid
+```mermaid
 flowchart TD
     A([Start])
     B[/Input Score 1/]
@@ -14,4 +14,4 @@ flowchart TD
     D --> E
     E --> F
     F --> G
-'''
+```

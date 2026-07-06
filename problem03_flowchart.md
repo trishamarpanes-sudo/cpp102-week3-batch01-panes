@@ -1,4 +1,4 @@
-'''mermaid
+```mermaid
 flowchart TD
     A([Start])
     B[/Input Hourly Rate/]
@@ -12,4 +12,4 @@ flowchart TD
     C --> D
     D --> E
     E --> F
-'''
+```

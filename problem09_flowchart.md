@@ -1,4 +1,4 @@
-'''mermaid
+```mermaid
 flowchart TD
     A([Start])
     B[/Input Temperature/]
@@ -18,4 +18,4 @@ flowchart TD
     D --> H
     F --> H
     G --> H
-'''
+```

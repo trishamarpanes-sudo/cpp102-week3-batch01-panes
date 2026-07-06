@@ -1,4 +1,4 @@
-'''mermaid
+```mermaid
 flowchart TD
     A([Start])
     B[/Input Locker Number/]
@@ -13,4 +13,4 @@ flowchart TD
     C -- No --> E
     D --> F
     E --> F
-'''
+```
